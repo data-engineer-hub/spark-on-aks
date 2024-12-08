@@ -1,4 +1,4 @@
-### **Deploying Apache Spark on Azure Kubernetes Service (AKS)**
+### **Running Apache Spark on Azure Kubernetes Service (AKS)**
 
 ---
 
